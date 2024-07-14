@@ -15,7 +15,7 @@ Two sequential LSTM layers have been stacked together and one dense layer is use
 
 # Test:
 Test accuracy metric is root mean square error (RMSE).
-# Results:
+# Results: (Only for Apple)
 The comparison of OHLC, HLC and Closing price:
 
 ![ttt1](https://github.com/dkconnect/Stock-Prediction/blob/main/apple/apple_comparision_17-24.png)
